@@ -1,0 +1,2 @@
+# wordpressplugins
+Wordpress plugin list
